@@ -21,7 +21,7 @@ st.write("Predict whether wine quality is **Good** or **Bad**")
 # -----------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("Lab 22 winequality-red.csv")
+    return pd.read_csv("winequality-red.csv")
 
 data = load_data()
 
