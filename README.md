@@ -102,7 +102,7 @@ The Streamlit app allows users to:
 
 📸 Screenshots
 
-(Screenshot.png)
+![Wine Quality Prediction](Screenshot.png)
 
 ---
 
