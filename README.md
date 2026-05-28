@@ -5,12 +5,6 @@ It includes Exploratory Data Analysis (EDA), model comparison, and a Streamlit w
 
 ---
 
-🌐 LIVE DEPLOYMENT
-
-Web App Link:
-https://wine-quality-prediction-y6zi.onrender.com
-
----
 
 📁 PROJECT STRUCTURE
 
@@ -103,6 +97,12 @@ The Streamlit app allows users to:
 * Predict wine quality (Good or Bad)
 * View prediction confidence
 * Check model accuracy
+
+---
+
+📸 Screenshots
+
+(Screenshot.png)
 
 ---
 
